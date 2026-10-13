@@ -1,0 +1,9 @@
+// Định dạng thành phần Thẻ (Card)
+.card {
+  border: 1px solid $border-color;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  @include box-shadow;
+  margin-top: 20px;
+}
