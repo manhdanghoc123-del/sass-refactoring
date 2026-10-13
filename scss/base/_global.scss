@@ -1,0 +1,8 @@
+// Định dạng thiết lập nền tảng cho toàn bộ website
+body {
+  font-family: $font-family-base;
+  color: $text-color;
+  background: $background-color;
+  margin: 0;
+  padding: 20px;
+}
