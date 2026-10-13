@@ -1,0 +1,4 @@
+// Định dạng thành phần Nút bấm
+.button {
+  @include button-style($primary-color);
+}
